@@ -1,0 +1,17 @@
+Package: v2raya
+Version: 1.2.2
+License: unknown
+Vendor: travis@travis-job-8d2041f8-54da-48b5-82ba-d819c551c54a
+Architecture: aarch64
+Maintainer: v2rayA
+Installed-Size: 21805
+Homepage: https://github.com/v2rayA/v2raya
+Priority: extra
+Section: default
+Filename: pool/main/v/v2raya/v2raya_1.2.2_aarch64.deb
+Size: 8325532
+SHA256: a8390e37f84a4dc8b102d2ab8ab791268a498dfdf382946d3dd008728d703536
+SHA1: 2f4312bf8135faa37dda099aef1bcb5408dca84c
+MD5sum: 418cfaea4552aabd69ff74125651d75f
+Description: A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan and Pingtunnel protocols.
+
